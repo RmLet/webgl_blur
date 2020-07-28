@@ -1,5 +1,5 @@
 # webgl_blur
 webgl blur effect by angular.
-installation:
+Installation:
   npm install, 
   npm start
